@@ -1,0 +1,15 @@
+TITLE="Simple Data File"
+DATASETAUXDATA Alpha = "5"
+DATASETAUXDATA Pi = "3.14 "
+VARIABLES="X" "Y"
+ZONE T="Zone 1" I=4 F=POINT
+1 1
+2 1
+2 2
+1 2
+ZONE T="Zone 2" I=5 F=POINT
+1 1
+2 1e-4
+2 2
+1 0.1
+8 9.0234
